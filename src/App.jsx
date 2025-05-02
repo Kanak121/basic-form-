@@ -1,10 +1,12 @@
 import './App.css';
-import LoginForm from './LoginForm';
+ import LoginForm from './LoginForm';
+// import LogDataForm from './LogDataForm';
 
 function App() {
   return (
     <>
-    <LoginForm/>
+     <LoginForm/> 
+    {/* <LogDataForm/> */}
     </>
   );
 }
